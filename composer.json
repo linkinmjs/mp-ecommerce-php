@@ -1,0 +1,14 @@
+{
+    "name": "usuario/mp-ecommerce-php",
+    "description": "A test project of Mercado Pago SDK integration",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Mauricio Stampella",
+            "email": "linkinmjs@gmail.com"
+        }
+    ],
+    "require": {
+        "mercadopago/dx-php": "^2.0"
+    }
+}
